@@ -1,0 +1,5 @@
+claim_id,rre_id,injured_party_name,status,days_delinquent,cmp_tier,daily_rate,estimated_cmp_exposure,trigger_date,reporting_deadline,actual_reported_date,mitigation_strategy
+CLM-2023-0881,RRE-99014,John Henderson,NON_COMPLIANT_DELINQUENT,936,TIER_2,756.0,551880.0,2023-04-10,2024-04-10,,Invoke 42 CFR § 402.1(c)(22)(iv) Safe Harbor: Good-faith documentation of 2 written attempts plus 1 certified/phone outreach to obtain Medicare beneficiary MBI/HICN info.
+CLM-2024-1102,RRE-99014,Maria Vasquez,NON_COMPLIANT_DELINQUENT,611,TIER_1,378.0,230958.0,2024-03-01,2025-03-01,,Invoke 42 CFR § 402.1(c)(22)(iv) Safe Harbor: Good-faith documentation of 2 written attempts plus 1 certified/phone outreach to obtain Medicare beneficiary MBI/HICN info.
+CLM-2026-0044,RRE-99014,Robert Chen,COMPLIANT_ACCEPTED,0,NONE,0.0,0.0,2026-06-15,2027-06-15,2026-07-01,Accepted by CMS BCRC with disposition code 00. Retain audit trail.
+CLM-2024-0550,RRE-99014,Arthur Pendelton,COMPLIANT_ACCEPTED,0,NONE,0.0,0.0,2024-01-15,2025-01-15,2025-01-05,Accepted by CMS BCRC with disposition code 00. Retain audit trail.

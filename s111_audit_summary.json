@@ -1,0 +1,102 @@
+{
+  "audit_date": "2026-11-02",
+  "total_claims": 4,
+  "delinquent_count": 2,
+  "total_exposure_usd": 782838.0,
+  "findings": [
+    {
+      "claim_id": "CLM-2023-0881",
+      "rre_id": "RRE-99014",
+      "injured_party_name": "John Henderson",
+      "trigger_date": "2023-04-10",
+      "reporting_deadline": "2024-04-10",
+      "actual_reported_date": null,
+      "days_delinquent": 936,
+      "cmp_tier": "TIER_2",
+      "daily_rate": 756.0,
+      "estimated_cmp_exposure": 551880.0,
+      "status": "NON_COMPLIANT_DELINQUENT",
+      "mitigation_strategy": "Invoke 42 CFR \u00a7 402.1(c)(22)(iv) Safe Harbor: Good-faith documentation of 2 written attempts plus 1 certified/phone outreach to obtain Medicare beneficiary MBI/HICN info."
+    },
+    {
+      "claim_id": "CLM-2024-1102",
+      "rre_id": "RRE-99014",
+      "injured_party_name": "Maria Vasquez",
+      "trigger_date": "2024-03-01",
+      "reporting_deadline": "2025-03-01",
+      "actual_reported_date": null,
+      "days_delinquent": 611,
+      "cmp_tier": "TIER_1",
+      "daily_rate": 378.0,
+      "estimated_cmp_exposure": 230958.0,
+      "status": "NON_COMPLIANT_DELINQUENT",
+      "mitigation_strategy": "Invoke 42 CFR \u00a7 402.1(c)(22)(iv) Safe Harbor: Good-faith documentation of 2 written attempts plus 1 certified/phone outreach to obtain Medicare beneficiary MBI/HICN info."
+    },
+    {
+      "claim_id": "CLM-2026-0044",
+      "rre_id": "RRE-99014",
+      "injured_party_name": "Robert Chen",
+      "trigger_date": "2026-06-15",
+      "reporting_deadline": "2027-06-15",
+      "actual_reported_date": "2026-07-01",
+      "days_delinquent": 0,
+      "cmp_tier": "NONE",
+      "daily_rate": 0.0,
+      "estimated_cmp_exposure": 0.0,
+      "status": "COMPLIANT_ACCEPTED",
+      "mitigation_strategy": "Accepted by CMS BCRC with disposition code 00. Retain audit trail."
+    },
+    {
+      "claim_id": "CLM-2024-0550",
+      "rre_id": "RRE-99014",
+      "injured_party_name": "Arthur Pendelton",
+      "trigger_date": "2024-01-15",
+      "reporting_deadline": "2025-01-15",
+      "actual_reported_date": "2025-01-05",
+      "days_delinquent": 0,
+      "cmp_tier": "NONE",
+      "daily_rate": 0.0,
+      "estimated_cmp_exposure": 0.0,
+      "status": "COMPLIANT_ACCEPTED",
+      "mitigation_strategy": "Accepted by CMS BCRC with disposition code 00. Retain audit trail."
+    }
+  ],
+  "target_prospects": [
+    {
+      "rre_name": "Lonestar Freightlines Logistics Corp",
+      "state": "TX",
+      "certified_self_insured_id": "TX-CSI-2019-041",
+      "headquarters": "Fort Worth, TX",
+      "risk_manager": "David Sterling, VP Risk & Claims",
+      "contact_email": "dsterling@lonestarfreight.com",
+      "phone": "(817) 555-0199",
+      "estimated_annual_claims": 240,
+      "primary_exposure": "Commercial Auto / Workers' Compensation",
+      "vulnerability_rationale": "High turnover of TPAs over last 3 years; potential orphan TPOC settlements."
+    },
+    {
+      "rre_name": "Midland Basin Energy Services Inc",
+      "state": "TX",
+      "certified_self_insured_id": "TX-CSI-2018-112",
+      "headquarters": "Midland, TX",
+      "risk_manager": "Sarah Jenkins, Director of Corporate Risk",
+      "contact_email": "sjenkins@midlandbasinenergy.com",
+      "phone": "(432) 555-0248",
+      "estimated_annual_claims": 180,
+      "primary_exposure": "Oilfield Heavy Equipment / Workers' Comp",
+      "vulnerability_rationale": "Complex indemnity master service agreements with subcontractor claims."
+    },
+    {
+      "rre_name": "Sunbelt Restaurant Brands Group",
+      "state": "FL",
+      "certified_self_insured_id": "FL-SIR-2021-089",
+      "headquarters": "Tampa, FL",
+      "risk_manager": "Marcus Vance, Treasury & Insurance",
+      "contact_email": "mvance@sunbeltbrands.com",
+      "phone": "(813) 555-0312",
+      "estimated_annual_claims": 310,
+      "primary_exposure": "Premises Slip-and-Fall General Liability",
+      "vulnerability_rationale": "High-volume sub-$25K nuisance settlements with unverified Medicare beneficiary MBI."
+    }
+  ]
+}
